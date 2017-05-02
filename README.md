@@ -1,2 +1,2 @@
 # hiprotect
-Hackerspace project
+Special hackerspace project
